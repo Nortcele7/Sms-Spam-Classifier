@@ -99,7 +99,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Nortcele7**
-- GitHub: [@Nortcele7](https://github.com/Nortcele7)
+- GitHub: [@ShreyamRegmi/Nortcele7](https://github.com/Nortcele7)
 
 ## 🙏 Acknowledgments
 
@@ -114,4 +114,4 @@ For any questions or feedback, please open an issue on GitHub.
 
 ---
 
-Made with ❤️ by Nortcele7
+Made with ❤️ by Shreyam Regmi
